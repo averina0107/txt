@@ -1,0 +1,7 @@
+summary : text
+project : name
+severity : text
+priority : text
+steps : steps
+ar : text
+er : text
