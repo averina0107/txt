@@ -1,0 +1,17 @@
+1. SDLC, STLC
+2. JSON, XML.
+3. Тестирование API.
+4. Снятие и чтение логов.
+5. Postman, Fidler.
+6. VPN.
+7. Dev Tools.
+8. Мобильное тестирование.
+9. XCode
+10. Android Studio
+11. Charles
+12. Terminal
+13. Основы SQL 
+14. Git
+15. Jmeter
+16. Scrum
+17. Python
